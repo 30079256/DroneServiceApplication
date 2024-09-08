@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WZAJKHieugnzO/TN6ZOiuAzWRYn16hdgvbmsG69a30ilZ2AnqFUF/8YmAqNYzYU+L7sXOlNoylQ7F0mwkUjrKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GAZ2\\Downloads\\C# 23-11-2023 (2)\\C# 10-11-2023\\IcarusDrones\\IcarusDrones.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GAZ2\\.nuget\\packages\\extended.wpf.toolkit\\4.5.1\\extended.wpf.toolkit.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,117 @@
+C:\Users\30079256\Source\Repos\IcarusDrones\bin\Debug\net6.0-windows\IcarusDrones.exe
+C:\Users\30079256\Source\Repos\IcarusDrones\bin\Debug\net6.0-windows\IcarusDrones.deps.json
+C:\Users\30079256\Source\Repos\IcarusDrones\bin\Debug\net6.0-windows\IcarusDrones.runtimeconfig.json
+C:\Users\30079256\Source\Repos\IcarusDrones\bin\Debug\net6.0-windows\IcarusDrones.dll
+C:\Users\30079256\Source\Repos\IcarusDrones\bin\Debug\net6.0-windows\IcarusDrones.pdb
+C:\Users\30079256\Source\Repos\IcarusDrones\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+C:\Users\30079256\Source\Repos\IcarusDrones\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+C:\Users\30079256\Source\Repos\IcarusDrones\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+C:\Users\30079256\Source\Repos\IcarusDrones\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+C:\Users\30079256\Source\Repos\IcarusDrones\bin\Debug\net6.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+C:\Users\30079256\Source\Repos\IcarusDrones\bin\Debug\net6.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\30079256\Source\Repos\IcarusDrones\bin\Debug\net6.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\30079256\Source\Repos\IcarusDrones\bin\Debug\net6.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\30079256\Source\Repos\IcarusDrones\bin\Debug\net6.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\30079256\Source\Repos\IcarusDrones\bin\Debug\net6.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\30079256\Source\Repos\IcarusDrones\bin\Debug\net6.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\30079256\Source\Repos\IcarusDrones\bin\Debug\net6.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\30079256\Source\Repos\IcarusDrones\bin\Debug\net6.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\30079256\Source\Repos\IcarusDrones\bin\Debug\net6.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\30079256\Source\Repos\IcarusDrones\bin\Debug\net6.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\30079256\Source\Repos\IcarusDrones\bin\Debug\net6.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\30079256\Source\Repos\IcarusDrones\bin\Debug\net6.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\30079256\Source\Repos\IcarusDrones\obj\Debug\net6.0-windows\IcarusDrones.csproj.AssemblyReference.cache
+C:\Users\30079256\Source\Repos\IcarusDrones\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\30079256\Source\Repos\IcarusDrones\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\30079256\Source\Repos\IcarusDrones\obj\Debug\net6.0-windows\IcarusDrones_MarkupCompile.cache
+C:\Users\30079256\Source\Repos\IcarusDrones\obj\Debug\net6.0-windows\IcarusDrones_MarkupCompile.lref
+C:\Users\30079256\Source\Repos\IcarusDrones\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\30079256\Source\Repos\IcarusDrones\obj\Debug\net6.0-windows\IcarusDrones.g.resources
+C:\Users\30079256\Source\Repos\IcarusDrones\obj\Debug\net6.0-windows\IcarusDrones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\30079256\Source\Repos\IcarusDrones\obj\Debug\net6.0-windows\IcarusDrones.AssemblyInfoInputs.cache
+C:\Users\30079256\Source\Repos\IcarusDrones\obj\Debug\net6.0-windows\IcarusDrones.AssemblyInfo.cs
+C:\Users\30079256\Source\Repos\IcarusDrones\obj\Debug\net6.0-windows\IcarusDrones.csproj.CoreCompileInputs.cache
+C:\Users\30079256\Source\Repos\IcarusDrones\obj\Debug\net6.0-windows\IcarusDrones.csproj.CopyComplete
+C:\Users\30079256\Source\Repos\IcarusDrones\obj\Debug\net6.0-windows\IcarusDrones.dll
+C:\Users\30079256\Source\Repos\IcarusDrones\obj\Debug\net6.0-windows\refint\IcarusDrones.dll
+C:\Users\30079256\Source\Repos\IcarusDrones\obj\Debug\net6.0-windows\IcarusDrones.pdb
+C:\Users\30079256\Source\Repos\IcarusDrones\obj\Debug\net6.0-windows\IcarusDrones.genruntimeconfig.cache
+C:\Users\30079256\Source\Repos\IcarusDrones\obj\Debug\net6.0-windows\ref\IcarusDrones.dll
+C:\Users\GAZ2\Downloads\C# 10-11-2023\IcarusDrones\bin\Debug\net6.0-windows\IcarusDrones.exe
+C:\Users\GAZ2\Downloads\C# 10-11-2023\IcarusDrones\bin\Debug\net6.0-windows\IcarusDrones.deps.json
+C:\Users\GAZ2\Downloads\C# 10-11-2023\IcarusDrones\bin\Debug\net6.0-windows\IcarusDrones.runtimeconfig.json
+C:\Users\GAZ2\Downloads\C# 10-11-2023\IcarusDrones\bin\Debug\net6.0-windows\IcarusDrones.dll
+C:\Users\GAZ2\Downloads\C# 10-11-2023\IcarusDrones\bin\Debug\net6.0-windows\IcarusDrones.pdb
+C:\Users\GAZ2\Downloads\C# 10-11-2023\IcarusDrones\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+C:\Users\GAZ2\Downloads\C# 10-11-2023\IcarusDrones\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+C:\Users\GAZ2\Downloads\C# 10-11-2023\IcarusDrones\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+C:\Users\GAZ2\Downloads\C# 10-11-2023\IcarusDrones\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+C:\Users\GAZ2\Downloads\C# 10-11-2023\IcarusDrones\bin\Debug\net6.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+C:\Users\GAZ2\Downloads\C# 10-11-2023\IcarusDrones\bin\Debug\net6.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\GAZ2\Downloads\C# 10-11-2023\IcarusDrones\bin\Debug\net6.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\GAZ2\Downloads\C# 10-11-2023\IcarusDrones\bin\Debug\net6.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\GAZ2\Downloads\C# 10-11-2023\IcarusDrones\bin\Debug\net6.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\GAZ2\Downloads\C# 10-11-2023\IcarusDrones\bin\Debug\net6.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\GAZ2\Downloads\C# 10-11-2023\IcarusDrones\bin\Debug\net6.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\GAZ2\Downloads\C# 10-11-2023\IcarusDrones\bin\Debug\net6.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\GAZ2\Downloads\C# 10-11-2023\IcarusDrones\bin\Debug\net6.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\GAZ2\Downloads\C# 10-11-2023\IcarusDrones\bin\Debug\net6.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\GAZ2\Downloads\C# 10-11-2023\IcarusDrones\bin\Debug\net6.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\GAZ2\Downloads\C# 10-11-2023\IcarusDrones\bin\Debug\net6.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\GAZ2\Downloads\C# 10-11-2023\IcarusDrones\bin\Debug\net6.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\GAZ2\Downloads\C# 10-11-2023\IcarusDrones\obj\Debug\net6.0-windows\IcarusDrones.csproj.AssemblyReference.cache
+C:\Users\GAZ2\Downloads\C# 10-11-2023\IcarusDrones\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\GAZ2\Downloads\C# 10-11-2023\IcarusDrones\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\GAZ2\Downloads\C# 10-11-2023\IcarusDrones\obj\Debug\net6.0-windows\IcarusDrones_MarkupCompile.cache
+C:\Users\GAZ2\Downloads\C# 10-11-2023\IcarusDrones\obj\Debug\net6.0-windows\IcarusDrones_MarkupCompile.lref
+C:\Users\GAZ2\Downloads\C# 10-11-2023\IcarusDrones\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\GAZ2\Downloads\C# 10-11-2023\IcarusDrones\obj\Debug\net6.0-windows\IcarusDrones.g.resources
+C:\Users\GAZ2\Downloads\C# 10-11-2023\IcarusDrones\obj\Debug\net6.0-windows\IcarusDrones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAZ2\Downloads\C# 10-11-2023\IcarusDrones\obj\Debug\net6.0-windows\IcarusDrones.AssemblyInfoInputs.cache
+C:\Users\GAZ2\Downloads\C# 10-11-2023\IcarusDrones\obj\Debug\net6.0-windows\IcarusDrones.AssemblyInfo.cs
+C:\Users\GAZ2\Downloads\C# 10-11-2023\IcarusDrones\obj\Debug\net6.0-windows\IcarusDrones.csproj.CoreCompileInputs.cache
+C:\Users\GAZ2\Downloads\C# 10-11-2023\IcarusDrones\obj\Debug\net6.0-windows\IcarusDrones.csproj.CopyComplete
+C:\Users\GAZ2\Downloads\C# 10-11-2023\IcarusDrones\obj\Debug\net6.0-windows\IcarusDrones.dll
+C:\Users\GAZ2\Downloads\C# 10-11-2023\IcarusDrones\obj\Debug\net6.0-windows\refint\IcarusDrones.dll
+C:\Users\GAZ2\Downloads\C# 10-11-2023\IcarusDrones\obj\Debug\net6.0-windows\IcarusDrones.pdb
+C:\Users\GAZ2\Downloads\C# 10-11-2023\IcarusDrones\obj\Debug\net6.0-windows\IcarusDrones.genruntimeconfig.cache
+C:\Users\GAZ2\Downloads\C# 10-11-2023\IcarusDrones\obj\Debug\net6.0-windows\ref\IcarusDrones.dll
+C:\Users\GAZ2\Downloads\C# 23-11-2023 (2)\C# 10-11-2023\IcarusDrones\bin\Debug\net6.0-windows\IcarusDrones.exe
+C:\Users\GAZ2\Downloads\C# 23-11-2023 (2)\C# 10-11-2023\IcarusDrones\bin\Debug\net6.0-windows\IcarusDrones.deps.json
+C:\Users\GAZ2\Downloads\C# 23-11-2023 (2)\C# 10-11-2023\IcarusDrones\bin\Debug\net6.0-windows\IcarusDrones.runtimeconfig.json
+C:\Users\GAZ2\Downloads\C# 23-11-2023 (2)\C# 10-11-2023\IcarusDrones\bin\Debug\net6.0-windows\IcarusDrones.dll
+C:\Users\GAZ2\Downloads\C# 23-11-2023 (2)\C# 10-11-2023\IcarusDrones\bin\Debug\net6.0-windows\IcarusDrones.pdb
+C:\Users\GAZ2\Downloads\C# 23-11-2023 (2)\C# 10-11-2023\IcarusDrones\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+C:\Users\GAZ2\Downloads\C# 23-11-2023 (2)\C# 10-11-2023\IcarusDrones\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+C:\Users\GAZ2\Downloads\C# 23-11-2023 (2)\C# 10-11-2023\IcarusDrones\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+C:\Users\GAZ2\Downloads\C# 23-11-2023 (2)\C# 10-11-2023\IcarusDrones\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+C:\Users\GAZ2\Downloads\C# 23-11-2023 (2)\C# 10-11-2023\IcarusDrones\bin\Debug\net6.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+C:\Users\GAZ2\Downloads\C# 23-11-2023 (2)\C# 10-11-2023\IcarusDrones\bin\Debug\net6.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\GAZ2\Downloads\C# 23-11-2023 (2)\C# 10-11-2023\IcarusDrones\bin\Debug\net6.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\GAZ2\Downloads\C# 23-11-2023 (2)\C# 10-11-2023\IcarusDrones\bin\Debug\net6.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\GAZ2\Downloads\C# 23-11-2023 (2)\C# 10-11-2023\IcarusDrones\bin\Debug\net6.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\GAZ2\Downloads\C# 23-11-2023 (2)\C# 10-11-2023\IcarusDrones\bin\Debug\net6.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\GAZ2\Downloads\C# 23-11-2023 (2)\C# 10-11-2023\IcarusDrones\bin\Debug\net6.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\GAZ2\Downloads\C# 23-11-2023 (2)\C# 10-11-2023\IcarusDrones\bin\Debug\net6.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\GAZ2\Downloads\C# 23-11-2023 (2)\C# 10-11-2023\IcarusDrones\bin\Debug\net6.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\GAZ2\Downloads\C# 23-11-2023 (2)\C# 10-11-2023\IcarusDrones\bin\Debug\net6.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\GAZ2\Downloads\C# 23-11-2023 (2)\C# 10-11-2023\IcarusDrones\bin\Debug\net6.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\GAZ2\Downloads\C# 23-11-2023 (2)\C# 10-11-2023\IcarusDrones\bin\Debug\net6.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\GAZ2\Downloads\C# 23-11-2023 (2)\C# 10-11-2023\IcarusDrones\bin\Debug\net6.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\GAZ2\Downloads\C# 23-11-2023 (2)\C# 10-11-2023\IcarusDrones\obj\Debug\net6.0-windows\IcarusDrones.csproj.AssemblyReference.cache
+C:\Users\GAZ2\Downloads\C# 23-11-2023 (2)\C# 10-11-2023\IcarusDrones\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\GAZ2\Downloads\C# 23-11-2023 (2)\C# 10-11-2023\IcarusDrones\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\GAZ2\Downloads\C# 23-11-2023 (2)\C# 10-11-2023\IcarusDrones\obj\Debug\net6.0-windows\IcarusDrones_MarkupCompile.cache
+C:\Users\GAZ2\Downloads\C# 23-11-2023 (2)\C# 10-11-2023\IcarusDrones\obj\Debug\net6.0-windows\IcarusDrones_MarkupCompile.lref
+C:\Users\GAZ2\Downloads\C# 23-11-2023 (2)\C# 10-11-2023\IcarusDrones\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\GAZ2\Downloads\C# 23-11-2023 (2)\C# 10-11-2023\IcarusDrones\obj\Debug\net6.0-windows\IcarusDrones.g.resources
+C:\Users\GAZ2\Downloads\C# 23-11-2023 (2)\C# 10-11-2023\IcarusDrones\obj\Debug\net6.0-windows\IcarusDrones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAZ2\Downloads\C# 23-11-2023 (2)\C# 10-11-2023\IcarusDrones\obj\Debug\net6.0-windows\IcarusDrones.AssemblyInfoInputs.cache
+C:\Users\GAZ2\Downloads\C# 23-11-2023 (2)\C# 10-11-2023\IcarusDrones\obj\Debug\net6.0-windows\IcarusDrones.AssemblyInfo.cs
+C:\Users\GAZ2\Downloads\C# 23-11-2023 (2)\C# 10-11-2023\IcarusDrones\obj\Debug\net6.0-windows\IcarusDrones.csproj.CoreCompileInputs.cache
+C:\Users\GAZ2\Downloads\C# 23-11-2023 (2)\C# 10-11-2023\IcarusDrones\obj\Debug\net6.0-windows\IcarusDr.0D559D53.Up2Date
+C:\Users\GAZ2\Downloads\C# 23-11-2023 (2)\C# 10-11-2023\IcarusDrones\obj\Debug\net6.0-windows\IcarusDrones.dll
+C:\Users\GAZ2\Downloads\C# 23-11-2023 (2)\C# 10-11-2023\IcarusDrones\obj\Debug\net6.0-windows\refint\IcarusDrones.dll
+C:\Users\GAZ2\Downloads\C# 23-11-2023 (2)\C# 10-11-2023\IcarusDrones\obj\Debug\net6.0-windows\IcarusDrones.pdb
+C:\Users\GAZ2\Downloads\C# 23-11-2023 (2)\C# 10-11-2023\IcarusDrones\obj\Debug\net6.0-windows\IcarusDrones.genruntimeconfig.cache
+C:\Users\GAZ2\Downloads\C# 23-11-2023 (2)\C# 10-11-2023\IcarusDrones\obj\Debug\net6.0-windows\ref\IcarusDrones.dll
