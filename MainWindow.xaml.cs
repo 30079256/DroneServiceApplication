@@ -18,9 +18,9 @@ using System.Windows.Shapes;
 
 namespace IcarusDrones
 {
-    /// <summary>
-    /// Interaction logic for MainWindow.xaml
-    /// </summary>
+    // Student Name: Olga Selezneva
+    // Student ID: 30079256
+
     public partial class MainWindow : Window
     {
         public MainWindow()

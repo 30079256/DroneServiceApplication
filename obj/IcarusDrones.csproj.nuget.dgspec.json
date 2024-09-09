@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GAZ2\\Downloads\\C# 23-11-2023 (2)\\C# 10-11-2023\\IcarusDrones\\IcarusDrones.csproj": {}
+    "C:\\Users\\GAZ2\\Documents\\DroneServiceApplication\\IcarusDrones.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GAZ2\\Downloads\\C# 23-11-2023 (2)\\C# 10-11-2023\\IcarusDrones\\IcarusDrones.csproj": {
+    "C:\\Users\\GAZ2\\Documents\\DroneServiceApplication\\IcarusDrones.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GAZ2\\Downloads\\C# 23-11-2023 (2)\\C# 10-11-2023\\IcarusDrones\\IcarusDrones.csproj",
+        "projectUniqueName": "C:\\Users\\GAZ2\\Documents\\DroneServiceApplication\\IcarusDrones.csproj",
         "projectName": "IcarusDrones",
-        "projectPath": "C:\\Users\\GAZ2\\Downloads\\C# 23-11-2023 (2)\\C# 10-11-2023\\IcarusDrones\\IcarusDrones.csproj",
+        "projectPath": "C:\\Users\\GAZ2\\Documents\\DroneServiceApplication\\IcarusDrones.csproj",
         "packagesPath": "C:\\Users\\GAZ2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GAZ2\\Downloads\\C# 23-11-2023 (2)\\C# 10-11-2023\\IcarusDrones\\obj\\",
+        "outputPath": "C:\\Users\\GAZ2\\Documents\\DroneServiceApplication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\GAZ2\\AppData\\Roaming\\NuGet\\NuGet.Config",
